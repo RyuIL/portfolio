@@ -62,6 +62,7 @@ Typescript, React, Mobx, Next, Webpack을 활용한 프론트엔드 개발과 Ja
 ### Project (클릭시 해당 git으로 연결)
 * [소개띵 (중고거래 PWA)](https://github.com/RyuIL/sogaething-master)
 * [Prolog (블로그 플랫폼 반응형 웹)](https://github.com/RyuIL/prolog-master)
+* [챗봇 (slack채팅 소셜커머스 크롤링 추천)](https://github.com/RyuIL/saffy2-bootcamp)
 
 ### 활동
 * [Samsung Software Academy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
