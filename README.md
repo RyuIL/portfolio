@@ -67,4 +67,9 @@ Typescript, React, Mobx, Next, Webpack을 활용한 프론트엔드 개발과 Ja
 ### 활동
 * [Samsung Software Academy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 
+### 대학교 (연구과제, 토이프로젝트)
+* 라즈베리파이 24대 hadoop fully distributed mode cluster와 PC와 성능 비교 및 사용방안 연구
+* [Spring 게시판 구현](https://github.com/RyuIL/spring_board)
+* [머신러닝](https://github.com/RyuIL/machine_learning)
+
 
