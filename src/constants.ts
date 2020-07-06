@@ -4,8 +4,7 @@ export enum STORES {
 }
 
 export enum PAGE_PATHS {
-  SIGNUP = '/signup',
-  SIGNIN = '/signin',
-  COUNTER = '/counter',
-  PRIVATE = '/private'
+  MAIN = '/',
+  TEXT = '/text',
+  SCROLL = '/scroll',
 }

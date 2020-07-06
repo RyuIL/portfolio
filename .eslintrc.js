@@ -44,7 +44,7 @@ module.exports = {
         semi: 0,
         eqeqeq: [1, 'always'],
         quotes: [1, 'single'],
-        'jsx-quotes': [2, 'prefer-double'],
+        'jsx-quotes': ['error', 'prefer-single'],
         'no-undef': 0,
         'no-console': 1,
         'no-unused-vars': 0,
