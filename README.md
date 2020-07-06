@@ -41,13 +41,14 @@ RyuIL 포트폴리오
 </div>
 
 ### etc
+<div> 
 <img src="./src/assets/img/git.png" width="100px">
 <img src="./src/assets/img/jira.jpg" width="100px">
 <img src="./src/assets/img/postman.png" width="100px">
 <img src="./src/assets/img/amazon-ec2.png" width="100px">
 <img src="./src/assets/img/docker.png" width="100px">
 <img src="./src/assets/img/graphql.png" width="100px">
-
+</div>
 <!-- 
 ![](./src/assets/img/git.png)
 ![](./src/assets/img/jira.jpg)
