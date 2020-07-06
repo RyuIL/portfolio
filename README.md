@@ -1,22 +1,26 @@
 # Portfolio
 RyuIL 포트폴리오
 
-## Frontend
-### Skills
+## 개발스택
+### Frontend
+<!--
 ![ES6](./src/assets/img/ES6.jpg)
 ![React](./src/assets/img/react.png)
 ![Mobx](./src/assets/img/mobx.png)
 ![Next](./src/assets/img/nextjs.png)
 ![Styled-component](./src/assets/img/styled-components.png)
 ![Typescript](./src/assets/img/typeScript.jpg)
-![webpack](./src/assets/img/webpack.png)
-<img src="./src/assets/img/zeplin.png" width="200px">
+![webpack](./src/assets/img/webpack.png) 
+-->
+<img src="./src/assets/img/ES6.jpg" width="100px">
+<img src="./src/assets/img/react.png" width="100px">
+<img src="./src/assets/img/mobx.png" width="100px">
+<img src="./src/assets/img/nextjs.png" width="100px">
+<img src="./src/assets/img/styled-components.png" width="100px">
+<img src="./src/assets/img/webpack.png" width="100px">
+<img src="./src/assets/img/zeplin.png" width="100px">
 
-### Project
-* [소개띵 (중고거래 PWA)](https://github.com/RyuIL/sogaething-master)
-
-## Backend
-### Skills
+### Backend
 ![java](./src/assets/img/java.png)
 ![Springboot](./src/assets/img/springboot.png)
 ![](./src/assets/img/Expressjs.png)
@@ -24,15 +28,15 @@ RyuIL 포트폴리오
 ![](./src/assets/img/mongodb.png)
 <img src="https://t1.daumcdn.net/cfile/tistory/211B43475865B4201E" width="200px">
 
-### Project
-* [Prolog (블로그 플랫폼 반응형 웹)](https://github.com/RyuIL/prolog-master)
-
-
-## 기타
-### Skills
+### etc
 ![](./src/assets/img/git.png)
 ![](./src/assets/img/jira.jpg)
 ![](./src/assets/img/postman.png)
 ![](./src/assets/img/amazon-ec2.png)
 ![](./src/assets/img/docker.png)
 ![](./src/assets/img/graphql.png)
+
+### Project (클릭시 해당 git으로 연결)
+* [소개띵 (중고거래 PWA)](https://github.com/RyuIL/sogaething-master)
+* [Prolog (블로그 플랫폼 반응형 웹)](https://github.com/RyuIL/prolog-master)
+
