@@ -15,13 +15,13 @@ Typescript, React, Mobx, Next, Webpack을 활용한 프론트엔드 개발과 Ja
 -->
 
 <div>
-<img src="./src/assets/img/ES6.jpg" width="100px">
-<img src="./src/assets/img/react.png" width="100px">
-<img src="./src/assets/img/mobx.png" width="100px">
-<img src="./src/assets/img/nextjs.png" width="100px">
-<img src="./src/assets/img/styled-components.png" width="100px">
-<img src="./src/assets/img/webpack.png" width="100px">
-<img src="./src/assets/img/zeplin.png" width="100px">
+<img src="./src/assets/img/ES6.jpg" width="100px" title="ES6">
+<img src="./src/assets/img/react.png" width="100px" title="React">
+<img src="./src/assets/img/mobx.png" width="100px" title="Mobx">
+<img src="./src/assets/img/nextjs.png" width="100px"  title="Next.js">
+<img src="./src/assets/img/styled-components.png" width="100px" title="Styled-componentes">
+<img src="./src/assets/img/webpack.png" width="100px" title="Webpack">
+<img src="./src/assets/img/zeplin.png" width="100px" title="Zeplin">
 </div>
 
 ### Backend
@@ -33,22 +33,22 @@ Typescript, React, Mobx, Next, Webpack을 활용한 프론트엔드 개발과 Ja
   ![](./src/assets/img/mongodb.png)
 -->
 <div> 
-<img src="./src/assets/img/java.png" width="100px">
-<img src="./src/assets/img/springboot.png" width="100px">
-<img src="./src/assets/img/Expressjs.png" width="100px">
-<img src="./src/assets/img/mysql.png" width="100px">
-<img src="./src/assets/img/mongodb.png" width="100px">
-<img src="https://t1.daumcdn.net/cfile/tistory/211B43475865B4201E" width="100px">
+<img src="./src/assets/img/java.png" width="100px"  title="Java">
+<img src="./src/assets/img/springboot.png" width="100px" title="Spring boot">
+<img src="./src/assets/img/Expressjs.png" width="100px" title="Express">
+<img src="./src/assets/img/mysql.png" width="100px" title="Mysql">
+<img src="./src/assets/img/mongodb.png" width="100px" title="MongoDB">
+<img src="https://t1.daumcdn.net/cfile/tistory/211B43475865B4201E" width="100px" title="Node">
 </div>
 
 ### etc
 <div> 
-<img src="./src/assets/img/git.png" width="100px">
-<img src="./src/assets/img/jira.jpg" width="100px">
-<img src="./src/assets/img/postman.png" width="100px">
-<img src="./src/assets/img/amazon-ec2.png" width="100px">
-<img src="./src/assets/img/docker.png" width="100px">
-<img src="./src/assets/img/graphql.png" width="100px">
+<img src="./src/assets/img/git.png" width="100px" title="Git">
+<img src="./src/assets/img/jira.jpg" width="100px" title="Jira">
+<img src="./src/assets/img/postman.png" width="100px" title="Postman">
+<img src="./src/assets/img/amazon-ec2.png" width="100px" title="Ec2">
+<img src="./src/assets/img/docker.png" width="100px" title="Docker">
+<img src="./src/assets/img/graphql.png" width="100px" title="GraphQL">
 </div>
 <!-- 
 ![](./src/assets/img/git.png)
