@@ -1,6 +1,5 @@
 # Portfolio
-Samsung Software Academy For Youth(SSAFY)에서 교육을 수료 했고, Web 풀스택 개발을 지향하고 있습니다.
-Typescript, React, Mobx, Next, Webpack을 활용한 프론트엔드 개발과 Java, Spring boot, Mysql, Express를 활용한 백엔드 개발에 관심이 많습니다.
+가치를 전달하는 소프트웨어 개발을 목표로 나아가고 있는 개발자 류일한입니다.
 
 ## 사용 기술
 ### Frontend
@@ -46,7 +45,7 @@ Typescript, React, Mobx, Next, Webpack을 활용한 프론트엔드 개발과 Ja
 - 크롤러 개발
 - Python, Flask, Slack, Selenium
 
-## 활동
+## 단체경력
 - [Samsung Software Academy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 
 ## 대학교 (연구과제, 토이프로젝트)
