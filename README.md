@@ -13,7 +13,7 @@ Typescript, React, Mobx, Next, Webpack을 활용한 프론트엔드 개발과 Ja
 - Java, Kotlin
 - Spring
 - Mysql
-- aws
+- AWS
 
 ### etc
 - Git
