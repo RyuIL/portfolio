@@ -61,9 +61,9 @@ Typescript, React, Mobx, Next, Webpack을 활용한 프론트엔드 개발과 Ja
 
 ### 경력
 #### 테스트연구소 (프리랜서)
-| 2020.07.01 ~ 2020.08.31
-| api server 개발 
-| Spring boot, jpa, mariaDB, java, flyway
+* 2020.07.01 ~ 2020.08.31
+* api server 개발 
+* Spring boot, jpa, mariaDB, java, flyway
 
 ### Project (클릭시 해당 git으로 연결)
 * [소개띵 (중고거래 PWA)](https://github.com/RyuIL/sogaething-master)
