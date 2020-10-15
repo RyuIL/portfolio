@@ -59,6 +59,9 @@ Typescript, React, Mobx, Next, Webpack을 활용한 프론트엔드 개발과 Ja
 ![](./src/assets/img/graphql.png)
 -->
 
+### 경력
+* 테스트연구소
+
 ### Project (클릭시 해당 git으로 연결)
 * [소개띵 (중고거래 PWA)](https://github.com/RyuIL/sogaething-master)
 * [Prolog (블로그 플랫폼 반응형 웹)](https://github.com/RyuIL/prolog-master)
